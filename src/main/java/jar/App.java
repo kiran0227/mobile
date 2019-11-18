@@ -1,4 +1,4 @@
-package com.mobile.app;
+package jar;
 
 /**
  * Hello world!
